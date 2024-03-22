@@ -1,0 +1,24 @@
+C:\Users\rahim\source\repos\Gestion_De_Facturation\bin\Debug\Gestion_De_Facturation.exe.config
+C:\Users\rahim\source\repos\Gestion_De_Facturation\bin\Debug\Gestion_De_Facturation.exe
+C:\Users\rahim\source\repos\Gestion_De_Facturation\bin\Debug\Gestion_De_Facturation.pdb
+C:\Users\rahim\source\repos\Gestion_De_Facturation\bin\Debug\EntityFramework.dll
+C:\Users\rahim\source\repos\Gestion_De_Facturation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rahim\source\repos\Gestion_De_Facturation\bin\Debug\EntityFramework.xml
+C:\Users\rahim\source\repos\Gestion_De_Facturation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rahim\source\repos\Gestion_De_Facturation\obj\Debug\Gestion_De_Facturation.csproj.AssemblyReference.cache
+C:\Users\rahim\source\repos\Gestion_De_Facturation\obj\Debug\Gestion_De_Facturation.csproj.CoreCompileInputs.cache
+C:\Users\rahim\source\repos\Gestion_De_Facturation\obj\Debug\Gestion_De_Facturation.csproj.CopyComplete
+C:\Users\rahim\source\repos\Gestion_De_Facturation\obj\Debug\Gestion_De_Facturation.exe
+C:\Users\rahim\source\repos\Gestion_De_Facturation\obj\Debug\Gestion_De_Facturation.pdb
+C:\Users\rahim\Documents\COURS\L3 IAGE\C#\Gestion_De_Facturation\bin\Debug\Gestion_De_Facturation.exe.config
+C:\Users\rahim\Documents\COURS\L3 IAGE\C#\Gestion_De_Facturation\bin\Debug\Gestion_De_Facturation.exe
+C:\Users\rahim\Documents\COURS\L3 IAGE\C#\Gestion_De_Facturation\bin\Debug\Gestion_De_Facturation.pdb
+C:\Users\rahim\Documents\COURS\L3 IAGE\C#\Gestion_De_Facturation\bin\Debug\EntityFramework.dll
+C:\Users\rahim\Documents\COURS\L3 IAGE\C#\Gestion_De_Facturation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rahim\Documents\COURS\L3 IAGE\C#\Gestion_De_Facturation\bin\Debug\EntityFramework.xml
+C:\Users\rahim\Documents\COURS\L3 IAGE\C#\Gestion_De_Facturation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rahim\Documents\COURS\L3 IAGE\C#\Gestion_De_Facturation\obj\Debug\Gestion_De_Facturation.csproj.AssemblyReference.cache
+C:\Users\rahim\Documents\COURS\L3 IAGE\C#\Gestion_De_Facturation\obj\Debug\Gestion_De_Facturation.csproj.CoreCompileInputs.cache
+C:\Users\rahim\Documents\COURS\L3 IAGE\C#\Gestion_De_Facturation\obj\Debug\Gestion_De_Facturation.csproj.CopyComplete
+C:\Users\rahim\Documents\COURS\L3 IAGE\C#\Gestion_De_Facturation\obj\Debug\Gestion_De_Facturation.exe
+C:\Users\rahim\Documents\COURS\L3 IAGE\C#\Gestion_De_Facturation\obj\Debug\Gestion_De_Facturation.pdb
